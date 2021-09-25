@@ -1,16 +1,22 @@
-### Hi there 👋
+<a href="https://telegram.me/LoneGhoul"><img align="center" src="https://github.com/kanekiken44/kanekiken44/blob/main/IMG_20210925_122004_989.jpg"/></a>
 
-<!--
-**kanekiken44/kanekiken44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **"Hola I'm Kaneki"** , and this is my profile readme.
+- Who I'm? Just A Noob Of 15 y.o. | I'm learning and playing around with a few languages.
+- Nothing more just an another weeb who loves anime.
 
-Here are some ideas to get you started:
+# **"Currently Learning"**
+> Languages I'm Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, HTML(Learning) will Learn more in future. 
+
+# **My Stats:**
+![Kaneki's github stats](https://github-readme-stats.vercel.app/api?username=kanekiken44&show_icons=true&theme=tokyonight)
+
+# **"How To Contact Me?"**
+> Mostly Active on Telegram
+
+[![Telegram Badge](https://img.shields.io/badge/-LoneGhoul-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/LoneGhoul)](https://t.me/LoneGhoul)
+
+# "Currently working on"
+- [Nezuko Bot](https://t.me/nezuko13_bot)
+More Cumin' in Future..
