@@ -1,6 +1,6 @@
 <a href="https://telegram.me/LoneGhoul"><img align="center" src="https://github.com/kanekiken44/kanekiken44/blob/main/IMG_20210925_122004_989.jpg"/></a>
 
-# **"Hola I'm Kaneki"** , and this is my profile readme.
+# **Yo kaneki here.....**
 - Who I'm? Just A Noob Of 15 y.o. | I'm learning and playing around with a few languages.
 - Nothing more just an another weeb who loves anime.
 
