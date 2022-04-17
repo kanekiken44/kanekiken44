@@ -16,7 +16,3 @@ Python, HTML(Learning) will Learn more in future.
 > Mostly Active on Telegram
 
 [![Telegram Badge](https://img.shields.io/badge/-LoneGhoul-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/LoneGhoul)](https://t.me/LoneGhoul)
-
-# "Currently working on"
-- [Nezuko Bot](https://t.me/nezuko13_bot)
-More Cumin' in Future..
