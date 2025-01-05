@@ -9,9 +9,6 @@
 
 Python, HTML(Learning) will Learn more in future. 
 
-# **My Stats:**
-![Kaneki's github stats](https://github-readme-stats.vercel.app/api?username=kanekiken44&show_icons=true&theme=tokyonight)
-
 # **"How To Contact Me?"**
 > Mostly Active on Telegram
 
